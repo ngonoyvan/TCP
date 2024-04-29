@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.transcanin.fr	TRUE	/	FALSE	1999999999	PHPSESSID	2bdddb35c989789bcaf2a80390c2f838
+
